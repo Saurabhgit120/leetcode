@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/Saurabhgit120/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saurabhgit120/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
@@ -12,5 +13,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/Saurabhgit120/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saurabhgit120/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
