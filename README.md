@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saurabhgit120/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurabhgit120/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Saurabhgit120/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Saurabhgit120/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Saurabhgit120/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Saurabhgit120/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saurabhgit120/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Saurabhgit120/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saurabhgit120/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/Saurabhgit120/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Saurabhgit120/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Saurabhgit120/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Saurabhgit120/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saurabhgit120/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
