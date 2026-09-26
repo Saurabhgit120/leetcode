@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Saurabhgit120/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saurabhgit120/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saurabhgit120/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabhgit120/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Saurabhgit120/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saurabhgit120/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Saurabhgit120/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Saurabhgit120/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Saurabhgit120/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Saurabhgit120/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabhgit120/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saurabhgit120/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saurabhgit120/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3871-count-commas-in-range-ii](https://github.com/Saurabhgit120/leetcode/tree/master/3871-count-commas-in-range-ii) |
